@@ -7,8 +7,7 @@
   "scripts": {
     "serve": "live-server public/",
     "build": "webpack",
-    "dev-server": "webpack-dev-server",
-    "start": "webpack-serve"
+    "dev-server": "webpack-dev-server"
   },
   "dependencies": {
     "css-loader": "^6.4.0",
