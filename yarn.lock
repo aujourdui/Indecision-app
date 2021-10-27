@@ -4018,10 +4018,10 @@ node-sass@^6.0.1:
     stdout-stream "^1.4.0"
     "true-case-path" "^1.0.2"
 
-node@16.11.0:
-  version "16.11.0"
-  resolved "https://registry.yarnpkg.com/node/-/node-16.11.0.tgz#de6d6fd07b42179f02392dcfa8e675810dbc9b2d"
-  integrity sha512-w7SSQwM4arZhvZviO4ZoTzWgJeZsKB/2ctb7JUi9PSePtPCGlGMaGcbEo321/0k5vVXrMyvE1CbRDd9WU/OY+A==
+node@14.18.1:
+  version "14.18.1"
+  resolved "https://registry.yarnpkg.com/node/-/node-14.18.1.tgz#bc22b68371e415f544591ab6617e486d1b8a878f"
+  integrity sha512-gBt7GlSQp68Bj5KoYx3dGgMCaE2PN0Qox3oiemTDINYHhJjML/Xd24jXuo7X1ehyJuVNZsLWYrJgX6DhHCze6w==
   dependencies:
     node-bin-setup "^1.0.0"
 
